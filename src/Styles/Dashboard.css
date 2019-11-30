@@ -1,0 +1,7 @@
+.dashboard-container {
+    width: 78%;
+    display: inline-block;
+    background: #f0e9e9;
+    height: 100%;
+    padding: 10px 30px;
+}
